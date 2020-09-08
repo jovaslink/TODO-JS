@@ -1,8 +1,21 @@
-# Webpack Starter
+# TODO JS 
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Proyecto TODO, utilizando localstorage y webpack.
 
 ### Notas:
+git
+```
+git init
+```
+```
+git add .
+```
+```
+git commit -m "Texto"
+```
+
+
+
 Recuerden reconstruir los módulos de Node
 ```
 npm install
